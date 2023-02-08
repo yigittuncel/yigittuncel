@@ -1,7 +1,7 @@
 ## Hello 👋 web developers and recruiters!
 
 I am a frontend developer, based in Munich who recently graduated from Le Wagon Bootcamp.
-I have an architecture and design background with 5 years of professional experience and a huge passion for developing web apps. I would like to pursue my career in web development and am open to job offers.
+I have an architecture and design background with 5 years of professional experience and a huge passion for developing web apps. I would like to pursue my career in web development.
 
 - ☀️  I recently graduated from Le Wagon fullstack web development bootcamp.
 - 🌱 I’m currently improving my JS and React and would like to work as a frontend developer.
